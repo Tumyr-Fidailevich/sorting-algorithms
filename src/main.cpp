@@ -1,6 +1,6 @@
 #include <iostream>
 #include "quicksort.h"
-
+#include "mergesort.h"
 
 int main()
 {
